@@ -206,6 +206,3 @@ export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
 # The original version is saved in .bash_profile.pysave
 PATH="/Library/Frameworks/Python.framework/Versions/3.7/bin:${PATH}"
 export PATH
-"_____________________________________________________________________________________________________________________________
-┤  ~ @ nicholass-mbp [lonewolf] [10:48 am]  
-┤ ➣  
